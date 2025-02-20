@@ -2,7 +2,6 @@
 - 👀 I’m interested in Coding and watching phone
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on Frontend Developer
-- 📫 How to reach me 9798106520
 - 😄 HE
 
 
